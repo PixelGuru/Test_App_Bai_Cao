@@ -18,7 +18,9 @@ Xử lý logic phức tạp và xác định người chiến thắng: Tôi đã
 
 Thách thức và học hỏi:
 
-Điều chỉnh thời gian chờ khi chia bài: Tôi đã phải làm việc với việc chia bài và hiển thị lá bài của từng người chơi một cách tuần tự. Việc điều chỉnh thời gian chờ để hiển thị lá bài một cách hợp lý.Tích hợp Ant Design và styled components: Tôi đã học cách tích hợp các thư viện giao diện người dùng như Ant Design và sử dụng styled components để tạo giao diện đẹp và thân thiện.
+Điều chỉnh thời gian chờ khi chia bài: Tôi đã thực hiện việc chia bài và hiển thị lá bài của từng người chơi một cách tuần tự. Việc điều chỉnh thời gian chờ để hiển thị lá bài một cách hợp lý.
+
+Tích hợp Ant Design và styled components: Tôi đã học cách tích hợp các thư viện giao diện người dùng như Ant Design và sử dụng styled components để tạo giao diện đẹp và thân thiện.
 
 Tổng kết:
 
