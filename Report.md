@@ -8,6 +8,10 @@ Thời gian hoàn thành bài test: 04 ngày (22/08/2023 - 25/08/2023)
 
 Xác định mức độ hoàn thành bài test: Tôi đã hoàn thành các yêu cầu của để bài đưa ra.
 
+Về giao diện:
+
+Tôi đã thể hiện các thông tin cơ bản như đề bài đã yêu cầu
+
 Các yếu tố chính đã xử lý:
 
 Chức năng trộn bài, chia bài, tính điểm và reset app: Tôi đã thực hiện thành công chức năng trộn bài khi click Shuffle (nút) chia bài khi click Drawn (nút), tính điểm khi click Reveal (nút) và reset App khi click Reset (nút) cho người chơi. Bằng cách sử dụng ReactJS thư viện Ant Desgin và Axios, tôi đã tương tác với API để chia bài và tính điểm dựa trên các quy tắc cụ thể.
@@ -20,7 +24,7 @@ Thách thức và học hỏi:
 
 Điều chỉnh thời gian chờ khi chia bài: Tôi đã thực hiện việc chia bài và hiển thị lá bài của từng người chơi một cách tuần tự. Việc điều chỉnh thời gian chờ để hiển thị lá bài một cách hợp lý.
 
-Tích hợp Ant Design và styled components: Tôi đã học cách tích hợp các thư viện giao diện người dùng như Ant Design và sử dụng styled components để tạo giao diện đẹp và thân thiện.
+Tích hợp Ant Design và styled components: Tôi đã học cách tích hợp các thư viện giao diện người dùng như Ant Design và sử dụng styled components để tạo giao diện đẹp và thân thiện (Chưa Reposive).
 
 Tổng kết:
 
