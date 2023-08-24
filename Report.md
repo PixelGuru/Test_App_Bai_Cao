@@ -1,6 +1,6 @@
 Báo Cáo Tổng Quan về Mã Nguồn App Bài cào.
 
-Kính gửi Nhà tuyể dụng,
+Kính gửi Nhà tuyển dụng,
 
 Tôi xin gửi báo cáo kết quả sau khi đã hoàn thành bài test App Bài cào. Dưới đây là tổng quan về kết quả của tôi:
 
