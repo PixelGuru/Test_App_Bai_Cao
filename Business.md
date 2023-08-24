@@ -1,4 +1,5 @@
 Phân tích business App Bài cào.
+
 Import Dependencies: Tôi đã import các thư viện và thành phần cần thiết để xây dựng ứng dụng của mình. Trong đó có Ant Design (Button, message, Space, Spin) và styled-components cho việc CSS.
 State Management: Tôi đã sử dụng React Hooks để quản lý trạng thái của ứng dụng. Có nhiều trạng thái như deckId, remainingCards, revealed, isRevealed, các lá bài của từng người chơi (userACards, userBCards, ...), dataValue để lưu giá trị của các lá bài, status để lưu trạng thái của từng người chơi, revealDisabled, drawnDisabled, isLoading, và coin để lưu số tiền của mỗi người chơi.
 Handlers for Actions:
