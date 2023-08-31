@@ -29,7 +29,7 @@ Tích hợp Ant Design và styled components: Tôi đã học cách tích hợp 
 Tổng kết:
 
 Tôi thấy việc thực hiện bài test này rất thú vị và bổ ích. Nó đã giúp tôi cải thiện khả năng lập trình, xử lý logic phức tạp và tương tác với API bên ngoài. Tôi rất mong được nhận phản hồi từ bạn về kết quả bài test và nhận xét của bạn về dự án trò chơi bài mà tôi đã thực hiện.
-Xin cảm ơn vì đã cung cấp cơ hội để tham gia bài test này. Nếu bạn cần bất kỳ thông tin hoặc giải thích nào về dự án hoặc kết quả của tôi, xin vui lòng liên hệ với tôi qua duynguyenvoquang@gmail hoặc số điện thoại 0362501616.
+Xin cảm ơn vì đã cung cấp cơ hội để tham gia bài test này. Nếu bạn cần bất kỳ thông tin hoặc giải thích nào về dự án hoặc kết quả của tôi, xin vui lòng liên hệ với tôi qua duynguyenvoquang@gmail.com hoặc số điện thoại 0362501616.
 
 Trân trọng
 
